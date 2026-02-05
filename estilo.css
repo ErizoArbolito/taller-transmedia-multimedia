@@ -1,0 +1,20 @@
+body {
+    background-color: paleturquoise;
+    color: brown;
+    font-size: 1.5em;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace
+}
+
+.subparrafo {
+    font-size: 0.8em;
+}
+
+#final {color: blue;}
