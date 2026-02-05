@@ -1,3 +1,9 @@
+head 
+img {
+    width: 16px;
+    height: 16px;
+}
+
 body {
     background-color: paleturquoise;
     color: brown;
